@@ -1,0 +1,681 @@
+07-13 09:29:26.198      298-463/? I/ActivityManager﹕ START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=io.github.melvincabatuan.opencvgrayscale/.MainActivity} from pid 22874
+07-13 09:29:26.278      298-308/? I/ActivityManager﹕ Start proc io.github.melvincabatuan.opencvgrayscale for activity io.github.melvincabatuan.opencvgrayscale/.MainActivity: pid=22893 uid=10124 gids={1006}
+07-13 09:29:26.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/dalvikvm﹕ Trying to load lib /data/data/io.github.melvincabatuan.opencvgrayscale/lib/libImageProcessing.so 0x2bde5130
+07-13 09:29:26.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/dalvikvm﹕ Added shared lib /data/data/io.github.melvincabatuan.opencvgrayscale/lib/libImageProcessing.so 0x2bde5130
+07-13 09:29:26.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/dalvikvm﹕ No JNI_OnLoad found in /data/data/io.github.melvincabatuan.opencvgrayscale/lib/libImageProcessing.so 0x2bde5130, skipping init
+07-13 09:29:26.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/libEGL﹕ loaded /system/lib/egl/libGLES_android.so
+07-13 09:29:26.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/libEGL﹕ loaded /system/lib/egl/libEGL_adreno200.so
+07-13 09:29:26.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/libEGL﹕ loaded /system/lib/egl/libGLESv1_CM_adreno200.so
+07-13 09:29:26.628  22893-22893/io.github.melvincabatuan.opencvgrayscale D/libEGL﹕ loaded /system/lib/egl/libGLESv2_adreno200.so
+07-13 09:29:26.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/OpenGLRenderer﹕ Enabling debug mode 0
+07-13 09:29:26.978  22893-22893/io.github.melvincabatuan.opencvgrayscale D/dalvikvm﹕ GC_FOR_ALLOC freed 147K, 3% free 9092K/9351K, paused 26ms
+07-13 09:29:26.978  22893-22893/io.github.melvincabatuan.opencvgrayscale I/dalvikvm-heap﹕ Grow heap (frag case) to 9.301MB for 405520-byte allocation
+07-13 09:29:26.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/dalvikvm﹕ GC_FOR_ALLOC freed 0K, 4% free 9488K/9799K, paused 20ms
+07-13 09:29:27.138      298-332/? I/ActivityManager﹕ Displayed io.github.melvincabatuan.opencvgrayscale/.MainActivity: +881ms
+07-13 09:29:27.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 19.668777465820313 fps.
+07-13 09:29:27.468  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 41.583499908447266 fps.
+07-13 09:29:27.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.652862548828125 fps.
+07-13 09:29:27.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 19.264110565185547 fps.
+07-13 09:29:27.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.184414863586426 fps.
+07-13 09:29:27.688  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 13.779608726501465 fps.
+07-13 09:29:27.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 7.928390979766846 fps.
+07-13 09:29:27.938  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 7.871226787567139 fps.
+07-13 09:29:28.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 8.02548885345459 fps.
+07-13 09:29:28.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 8.473786354064941 fps.
+07-13 09:29:28.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 17.843216705322266 fps after 10 frames.
+07-13 09:29:28.298  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 8.661908149719238 fps.
+07-13 09:29:28.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 8.994747161865234 fps.
+07-13 09:29:28.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 7.217610836029053 fps.
+07-13 09:29:28.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 9.860960006713867 fps.
+07-13 09:29:28.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 7.433783531188965 fps.
+07-13 09:29:28.898  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 8.650444030761719 fps.
+07-13 09:29:28.968  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.21259593963623 fps.
+07-13 09:29:29.038  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.371946334838867 fps.
+07-13 09:29:29.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.74625015258789 fps.
+07-13 09:29:29.148  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.664411544799805 fps.
+07-13 09:29:29.148  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 14.762341237068176 fps after 20 frames.
+07-13 09:29:29.208  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.135462760925293 fps.
+07-13 09:29:29.278  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.73861312866211 fps.
+07-13 09:29:29.338  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.64198112487793 fps.
+07-13 09:29:29.398  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.73556137084961 fps.
+07-13 09:29:29.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.457490921020508 fps.
+07-13 09:29:29.508  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.174217224121094 fps.
+07-13 09:29:29.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.581663131713867 fps.
+07-13 09:29:29.628  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.995819091796875 fps.
+07-13 09:29:29.688  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.566165924072266 fps.
+07-13 09:29:29.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.868229866027832 fps.
+07-13 09:29:29.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 15.338067642847697 fps after 30 frames.
+07-13 09:29:29.808  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.439224243164063 fps.
+07-13 09:29:29.868  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.34307289123535 fps.
+07-13 09:29:29.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.683778762817383 fps.
+07-13 09:29:29.988  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.735280990600586 fps.
+07-13 09:29:30.048  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.524555206298828 fps.
+07-13 09:29:30.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.326797485351563 fps.
+07-13 09:29:30.178  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.867456436157227 fps.
+07-13 09:29:30.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.33718490600586 fps.
+07-13 09:29:30.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.560495376586914 fps.
+07-13 09:29:30.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.276504516601563 fps.
+07-13 09:29:30.358  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 15.680909502506257 fps after 40 frames.
+07-13 09:29:30.409  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.33684730529785 fps.
+07-13 09:29:30.458  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 19.8113956451416 fps.
+07-13 09:29:30.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.118717193603516 fps.
+07-13 09:29:30.528  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.66168975830078 fps.
+07-13 09:29:30.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.619626998901367 fps.
+07-13 09:29:30.600  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.0345401763916 fps.
+07-13 09:29:30.638  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 09:29:30.669  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.743892669677734 fps.
+07-13 09:29:30.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.580026626586914 fps.
+07-13 09:29:30.738  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.20440673828125 fps.
+07-13 09:29:30.738  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 17.921109895706177 fps after 50 frames.
+07-13 09:29:30.778  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.74941062927246 fps.
+07-13 09:29:30.808  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.26679992675781 fps.
+07-13 09:29:30.838  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.035442352294922 fps.
+07-13 09:29:30.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.319252014160156 fps.
+07-13 09:29:30.908  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.712581634521484 fps.
+07-13 09:29:30.948  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.640380859375 fps.
+07-13 09:29:30.978  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.220645904541016 fps.
+07-13 09:29:31.008  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.668081283569336 fps.
+07-13 09:29:31.048  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.96525764465332 fps.
+07-13 09:29:31.078  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.83865737915039 fps.
+07-13 09:29:31.078  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 19.97453340689341 fps after 60 frames.
+07-13 09:29:31.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.27243423461914 fps.
+07-13 09:29:31.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.519969940185547 fps.
+07-13 09:29:31.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.786832809448242 fps.
+07-13 09:29:31.258  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.49947166442871 fps.
+07-13 09:29:31.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.860828399658203 fps.
+07-13 09:29:31.378  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 19.095630645751953 fps.
+07-13 09:29:31.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.213762283325195 fps.
+07-13 09:29:31.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.899009704589844 fps.
+07-13 09:29:31.578  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 12.47831916809082 fps.
+07-13 09:29:31.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 9.796142578125 fps.
+07-13 09:29:31.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 19.68420579774039 fps after 70 frames.
+07-13 09:29:31.738  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.82785415649414 fps.
+07-13 09:29:31.798  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.456666946411133 fps.
+07-13 09:29:31.848  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.81406021118164 fps.
+07-13 09:29:31.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.6755313873291 fps.
+07-13 09:29:31.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.918392181396484 fps.
+07-13 09:29:31.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.447330474853516 fps.
+07-13 09:29:31.988  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.77687454223633 fps.
+07-13 09:29:32.018  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.177900314331055 fps.
+07-13 09:29:32.058  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.781169891357422 fps.
+07-13 09:29:32.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.2373104095459 fps.
+07-13 09:29:32.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 20.48759370446205 fps after 80 frames.
+07-13 09:29:32.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.2373104095459 fps.
+07-13 09:29:32.151  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.87555694580078 fps.
+07-13 09:29:32.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.228832244873047 fps.
+07-13 09:29:32.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.700334548950195 fps.
+07-13 09:29:32.268  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.34276008605957 fps.
+07-13 09:29:32.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.01414108276367 fps.
+07-13 09:29:32.328  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 09:29:32.358  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.30673599243164 fps.
+07-13 09:29:32.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.33444595336914 fps.
+07-13 09:29:32.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.361677169799805 fps.
+07-13 09:29:32.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 21.56618472735087 fps after 90 frames.
+07-13 09:29:32.458  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.652572631835938 fps.
+07-13 09:29:32.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.4899959564209 fps.
+07-13 09:29:32.538  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.33583641052246 fps.
+07-13 09:29:32.578  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.1287841796875 fps.
+07-13 09:29:32.658  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 12.574187278747559 fps.
+07-13 09:29:32.698  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.598360061645508 fps.
+07-13 09:29:32.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.30103874206543 fps.
+07-13 09:29:32.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.010507583618164 fps.
+07-13 09:29:32.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.004777908325195 fps.
+07-13 09:29:32.938  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.367496490478516 fps.
+07-13 09:29:32.938  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 21.504201827049254 fps after 100 frames.
+07-13 09:29:33.008  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 13.175751686096191 fps.
+07-13 09:29:33.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.33684730529785 fps.
+07-13 09:29:33.128  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.147069931030273 fps.
+07-13 09:29:33.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.15281867980957 fps.
+07-13 09:29:33.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.899778366088867 fps.
+07-13 09:29:33.238  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.527236938476563 fps.
+07-13 09:29:33.268  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.720855712890625 fps.
+07-13 09:29:33.308  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.84362030029297 fps.
+07-13 09:29:33.338  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.45345115661621 fps.
+07-13 09:29:33.371  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.897153854370117 fps.
+07-13 09:29:33.371  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 21.814316060326316 fps after 110 frames.
+07-13 09:29:33.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.14883041381836 fps.
+07-13 09:29:33.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.982986450195313 fps.
+07-13 09:29:33.478  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.37922668457031 fps.
+07-13 09:29:33.508  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.952674865722656 fps.
+07-13 09:29:33.538  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.326358795166016 fps.
+07-13 09:29:33.578  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 09:29:33.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.705835342407227 fps.
+07-13 09:29:33.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.95873260498047 fps.
+07-13 09:29:33.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.08402633666992 fps.
+07-13 09:29:33.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.788501739501953 fps.
+07-13 09:29:33.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 22.47986213763555 fps after 120 frames.
+07-13 09:29:33.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.117759704589844 fps.
+07-13 09:29:33.778  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.53607177734375 fps.
+07-13 09:29:33.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.06882095336914 fps.
+07-13 09:29:33.848  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.96863555908203 fps.
+07-13 09:29:33.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.78938865661621 fps.
+07-13 09:29:33.911  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.537782669067383 fps.
+07-13 09:29:33.948  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.52116584777832 fps.
+07-13 09:29:33.978  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.8164119720459 fps.
+07-13 09:29:34.018  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.842464447021484 fps.
+07-13 09:29:34.048  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.28710174560547 fps.
+07-13 09:29:34.048  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 23.062069691144504 fps after 130 frames.
+07-13 09:29:34.079  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.231218338012695 fps.
+07-13 09:29:34.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.20144271850586 fps.
+07-13 09:29:34.148  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.144996643066406 fps.
+07-13 09:29:34.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.27706527709961 fps.
+07-13 09:29:34.218  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.859336853027344 fps.
+07-13 09:29:34.248  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.92619705200195 fps.
+07-13 09:29:34.279  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.228832244873047 fps.
+07-13 09:29:34.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 09:29:34.349  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.078845977783203 fps.
+07-13 09:29:34.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.381999969482422 fps.
+07-13 09:29:34.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 23.514283442497252 fps after 140 frames.
+07-13 09:29:34.418  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.6413688659668 fps.
+07-13 09:29:34.458  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.99437713623047 fps.
+07-13 09:29:34.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.148374557495117 fps.
+07-13 09:29:34.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 20.140174865722656 fps.
+07-13 09:29:34.588  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.026756286621094 fps.
+07-13 09:29:34.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.654806137084961 fps.
+07-13 09:29:34.698  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 20.977994918823242 fps.
+07-13 09:29:34.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.835220336914063 fps.
+07-13 09:29:34.808  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.88191032409668 fps.
+07-13 09:29:34.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.588911056518555 fps.
+07-13 09:29:34.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 23.46593050956726 fps after 150 frames.
+07-13 09:29:34.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.845098495483398 fps.
+07-13 09:29:34.988  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.39236831665039 fps.
+07-13 09:29:35.038  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.163984298706055 fps.
+07-13 09:29:35.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.793774604797363 fps.
+07-13 09:29:35.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.237218856811523 fps.
+07-13 09:29:35.218  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.84726333618164 fps.
+07-13 09:29:35.279  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.255361557006836 fps.
+07-13 09:29:35.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.731050491333008 fps.
+07-13 09:29:35.368  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.412981033325195 fps.
+07-13 09:29:35.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.344524383544922 fps.
+07-13 09:29:35.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 23.18070751130581 fps after 160 frames.
+07-13 09:29:35.439  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.199995040893555 fps.
+07-13 09:29:35.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.536226272583008 fps.
+07-13 09:29:35.528  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.945049285888672 fps.
+07-13 09:29:35.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 41.795536041259766 fps.
+07-13 09:29:35.580  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 09:29:35.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.231218338012695 fps.
+07-13 09:29:35.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.062530517578125 fps.
+07-13 09:29:35.679  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.440340042114258 fps.
+07-13 09:29:35.718  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.37550926208496 fps.
+07-13 09:29:35.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.2238712310791 fps.
+07-13 09:29:35.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 23.541554145252004 fps after 170 frames.
+07-13 09:29:35.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.19942855834961 fps.
+07-13 09:29:35.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.84362030029297 fps.
+07-13 09:29:35.850  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 09:29:35.888  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.118717193603516 fps.
+07-13 09:29:35.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.124595642089844 fps.
+07-13 09:29:35.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.28467559814453 fps.
+07-13 09:29:35.988  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.91807556152344 fps.
+07-13 09:29:36.018  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.768699645996094 fps.
+07-13 09:29:36.058  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.95873260498047 fps.
+07-13 09:29:36.098  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.06882095336914 fps.
+07-13 09:29:36.098  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 23.893576365047032 fps after 180 frames.
+07-13 09:29:36.128  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.815773010253906 fps.
+07-13 09:29:36.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 09:29:36.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.86662673950195 fps.
+07-13 09:29:36.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.248586654663086 fps.
+07-13 09:29:36.258  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.345474243164063 fps.
+07-13 09:29:36.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.924888610839844 fps.
+07-13 09:29:36.328  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.699296951293945 fps.
+07-13 09:29:36.368  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.058473587036133 fps.
+07-13 09:29:36.389  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 39.1496696472168 fps.
+07-13 09:29:36.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.921794891357422 fps.
+07-13 09:29:36.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.245030772058588 fps after 190 frames.
+07-13 09:29:36.458  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.912857055664063 fps.
+07-13 09:29:36.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.652572631835938 fps.
+07-13 09:29:36.528  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.593486785888672 fps.
+07-13 09:29:36.558  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.30003356933594 fps.
+07-13 09:29:36.598  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.532939910888672 fps.
+07-13 09:29:36.628  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.972909927368164 fps.
+07-13 09:29:36.668  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.006498336791992 fps.
+07-13 09:29:36.688  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.824398040771484 fps.
+07-13 09:29:36.728  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.090572357177734 fps.
+07-13 09:29:36.759  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.15281867980957 fps.
+07-13 09:29:36.759  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.54297466993332 fps after 200 frames.
+07-13 09:29:36.798  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.396984100341797 fps.
+07-13 09:29:36.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 09:29:36.868  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.489896774291992 fps.
+07-13 09:29:36.898  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.720827102661133 fps.
+07-13 09:29:36.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.008785247802734 fps.
+07-13 09:29:36.968  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.71830177307129 fps.
+07-13 09:29:36.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.738964080810547 fps.
+07-13 09:29:37.029  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.089693069458008 fps.
+07-13 09:29:37.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.235700607299805 fps.
+07-13 09:29:37.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.172529220581055 fps.
+07-13 09:29:37.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.766326293491183 fps after 210 frames.
+07-13 09:29:37.128  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 40.00960159301758 fps.
+07-13 09:29:37.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.054426193237305 fps.
+07-13 09:29:37.208  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.59716033935547 fps.
+07-13 09:29:37.238  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.45438003540039 fps.
+07-13 09:29:37.268  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.356809616088867 fps.
+07-13 09:29:37.299  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.62855339050293 fps.
+07-13 09:29:37.332  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.482229232788086 fps.
+07-13 09:29:37.368  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.722333908081055 fps.
+07-13 09:29:37.399  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.20144271850586 fps.
+07-13 09:29:37.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.256366729736328 fps.
+07-13 09:29:37.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.016781024499373 fps after 220 frames.
+07-13 09:29:37.468  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.385704040527344 fps.
+07-13 09:29:37.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 09:29:37.538  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.898048400878906 fps.
+07-13 09:29:37.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.870861053466797 fps.
+07-13 09:29:37.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.41436004638672 fps.
+07-13 09:29:37.638  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.054426193237305 fps.
+07-13 09:29:37.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.511837005615234 fps.
+07-13 09:29:37.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.13233184814453 fps.
+07-13 09:29:37.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.727249145507813 fps.
+07-13 09:29:37.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.79705810546875 fps.
+07-13 09:29:37.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.201599633175395 fps after 230 frames.
+07-13 09:29:37.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.05870246887207 fps.
+07-13 09:29:37.868  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.969444274902344 fps.
+07-13 09:29:37.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.229814529418945 fps.
+07-13 09:29:37.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.68105411529541 fps.
+07-13 09:29:38.048  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 19.095266342163086 fps.
+07-13 09:29:38.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.495058059692383 fps.
+07-13 09:29:38.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.408506393432617 fps.
+07-13 09:29:38.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.868481636047363 fps.
+07-13 09:29:38.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.318538665771484 fps.
+07-13 09:29:38.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.75266456604004 fps.
+07-13 09:29:38.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.9176893611749 fps after 240 frames.
+07-13 09:29:38.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.856016159057617 fps.
+07-13 09:29:38.468  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.608261108398438 fps.
+07-13 09:29:38.528  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.995819091796875 fps.
+07-13 09:29:38.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 11.346230506896973 fps.
+07-13 09:29:38.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.59716033935547 fps.
+07-13 09:29:38.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.90823745727539 fps.
+07-13 09:29:38.778  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.550745964050293 fps.
+07-13 09:29:38.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.481555938720703 fps.
+07-13 09:29:38.888  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.608261108398438 fps.
+07-13 09:29:38.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.069446563720703 fps.
+07-13 09:29:38.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.60506872367859 fps after 250 frames.
+07-13 09:29:39.008  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 21.58661651611328 fps.
+07-13 09:29:39.078  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.531292915344238 fps.
+07-13 09:29:39.128  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.76736068725586 fps.
+07-13 09:29:39.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.768891334533691 fps.
+07-13 09:29:39.249  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.95525550842285 fps.
+07-13 09:29:39.308  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.213762283325195 fps.
+07-13 09:29:39.398  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 11.38965129852295 fps.
+07-13 09:29:39.418  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 48.33019256591797 fps.
+07-13 09:29:39.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.33583641052246 fps.
+07-13 09:29:39.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.51258659362793 fps.
+07-13 09:29:39.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.51022548858936 fps after 260 frames.
+07-13 09:29:39.528  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.88277244567871 fps.
+07-13 09:29:39.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.710643768310547 fps.
+07-13 09:29:39.598  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.59857177734375 fps.
+07-13 09:29:39.628  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.61803436279297 fps.
+07-13 09:29:39.668  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 09:29:39.699  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 09:29:39.738  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.51258659362793 fps.
+07-13 09:29:39.768  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.299179077148438 fps.
+07-13 09:29:39.798  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.168174743652344 fps.
+07-13 09:29:39.831  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.63814163208008 fps.
+07-13 09:29:39.831  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.69500912030538 fps after 270 frames.
+07-13 09:29:39.868  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.542884826660156 fps.
+07-13 09:29:39.898  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.942508697509766 fps.
+07-13 09:29:39.938  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.676485061645508 fps.
+07-13 09:29:39.968  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.53101348876953 fps.
+07-13 09:29:40.008  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.443878173828125 fps.
+07-13 09:29:40.038  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.906068801879883 fps.
+07-13 09:29:40.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 09:29:40.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.74540901184082 fps.
+07-13 09:29:40.138  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.44753074645996 fps.
+07-13 09:29:40.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.47722625732422 fps.
+07-13 09:29:40.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 24.882310657841817 fps after 280 frames.
+07-13 09:29:40.201  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.898048400878906 fps.
+07-13 09:29:40.238  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.567018508911133 fps.
+07-13 09:29:40.269  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.84362030029297 fps.
+07-13 09:29:40.308  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.39801025390625 fps.
+07-13 09:29:40.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.340744018554688 fps.
+07-13 09:29:40.378  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.321392059326172 fps.
+07-13 09:29:40.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 39.056396484375 fps.
+07-13 09:29:40.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.699296951293945 fps.
+07-13 09:29:40.469  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.97125816345215 fps.
+07-13 09:29:40.508  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.870363235473633 fps.
+07-13 09:29:40.508  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.058665974386805 fps after 290 frames.
+07-13 09:29:40.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.319944381713867 fps.
+07-13 09:29:40.578  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.058473587036133 fps.
+07-13 09:29:40.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.346277236938477 fps.
+07-13 09:29:40.658  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.45346450805664 fps.
+07-13 09:29:40.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 48.18812561035156 fps.
+07-13 09:29:40.718  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.381999969482422 fps.
+07-13 09:29:40.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.81369972229004 fps.
+07-13 09:29:40.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.74941062927246 fps.
+07-13 09:29:40.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.563385009765625 fps.
+07-13 09:29:40.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.406951904296875 fps.
+07-13 09:29:40.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.224316217104594 fps after 300 frames.
+07-13 09:29:40.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 42.946102142333984 fps.
+07-13 09:29:40.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.842464447021484 fps.
+07-13 09:29:40.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.4256649017334 fps.
+07-13 09:29:40.988  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.480302810668945 fps.
+07-13 09:29:41.028  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.899778366088867 fps.
+07-13 09:29:41.058  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 49.80079650878906 fps.
+07-13 09:29:41.098  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.070825576782227 fps.
+07-13 09:29:41.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 46.61135482788086 fps.
+07-13 09:29:41.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.77178192138672 fps.
+07-13 09:29:41.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.880998611450195 fps.
+07-13 09:29:41.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.43233850079198 fps after 310 frames.
+07-13 09:29:41.218  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 43.22828674316406 fps.
+07-13 09:29:41.258  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.172529220581055 fps.
+07-13 09:29:41.298  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.82436752319336 fps.
+07-13 09:29:41.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 47.352970123291016 fps.
+07-13 09:29:41.359  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.283811569213867 fps.
+07-13 09:29:41.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.690698623657227 fps.
+07-13 09:29:41.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 20.214679718017578 fps.
+07-13 09:29:41.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 71.54611206054688 fps.
+07-13 09:29:41.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.95873260498047 fps.
+07-13 09:29:41.518  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.61260223388672 fps.
+07-13 09:29:41.518  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.746592892706396 fps after 320 frames.
+07-13 09:29:41.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.362539291381836 fps.
+07-13 09:29:41.582  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.652280807495117 fps.
+07-13 09:29:41.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 09:29:41.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 09:29:41.688  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.619020462036133 fps.
+07-13 09:29:41.718  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.73470687866211 fps.
+07-13 09:29:41.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.599672317504883 fps.
+07-13 09:29:41.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.57394790649414 fps.
+07-13 09:29:41.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.60032844543457 fps.
+07-13 09:29:41.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.889888763427734 fps.
+07-13 09:29:41.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.87586961370526 fps after 330 frames.
+07-13 09:29:41.888  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.231218338012695 fps.
+07-13 09:29:41.919  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.18849563598633 fps.
+07-13 09:29:41.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 09:29:41.988  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.145906448364258 fps.
+07-13 09:29:42.028  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.4256649017334 fps.
+07-13 09:29:42.058  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.14809226989746 fps.
+07-13 09:29:42.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.234840393066406 fps.
+07-13 09:29:42.121  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.2373104095459 fps.
+07-13 09:29:42.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.972070693969727 fps.
+07-13 09:29:42.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 09:29:42.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 25.99918589451734 fps after 340 frames.
+07-13 09:29:42.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 09:29:42.258  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.574424743652344 fps.
+07-13 09:29:42.298  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.619020462036133 fps.
+07-13 09:29:42.328  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.0622673034668 fps.
+07-13 09:29:42.358  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.425655364990234 fps.
+07-13 09:29:42.398  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.639711380004883 fps.
+07-13 09:29:42.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.98829460144043 fps.
+07-13 09:29:42.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.554941177368164 fps.
+07-13 09:29:42.518  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 40.90816116333008 fps.
+07-13 09:29:42.558  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.472015380859375 fps.
+07-13 09:29:42.558  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.06101749556405 fps after 350 frames.
+07-13 09:29:42.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.397920608520508 fps.
+07-13 09:29:42.638  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.08119010925293 fps.
+07-13 09:29:42.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.880573272705078 fps.
+07-13 09:29:42.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.63814163208008 fps.
+07-13 09:29:42.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 09:29:42.779  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.654232025146484 fps.
+07-13 09:29:42.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.04949951171875 fps.
+07-13 09:29:42.849  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 09:29:42.888  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.46724510192871 fps.
+07-13 09:29:42.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.5824031829834 fps.
+07-13 09:29:42.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.117100075880685 fps after 360 frames.
+07-13 09:29:42.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.214380264282227 fps.
+07-13 09:29:42.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.076080322265625 fps.
+07-13 09:29:43.028  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 40.25602722167969 fps.
+07-13 09:29:43.049  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.81749725341797 fps.
+07-13 09:29:43.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.719127655029297 fps.
+07-13 09:29:43.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.0 fps.
+07-13 09:29:43.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.030834197998047 fps.
+07-13 09:29:43.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.15131187438965 fps.
+07-13 09:29:43.218  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.57832717895508 fps.
+07-13 09:29:43.250  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.369291305541992 fps.
+07-13 09:29:43.250  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.244240282677314 fps after 370 frames.
+07-13 09:29:43.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.654232025146484 fps.
+07-13 09:29:43.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.482229232788086 fps.
+07-13 09:29:43.358  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.370403289794922 fps.
+07-13 09:29:43.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.911130905151367 fps.
+07-13 09:29:43.419  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.537782669067383 fps.
+07-13 09:29:43.458  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.68053436279297 fps.
+07-13 09:29:43.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 09:29:43.538  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.88326644897461 fps.
+07-13 09:29:43.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.93265151977539 fps.
+07-13 09:29:43.588  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.96205139160156 fps.
+07-13 09:29:43.588  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.345466740507828 fps after 380 frames.
+07-13 09:29:43.621  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.980512619018555 fps.
+07-13 09:29:43.658  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.173194885253906 fps.
+07-13 09:29:43.689  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.08966636657715 fps.
+07-13 09:29:43.728  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.14809226989746 fps.
+07-13 09:29:43.768  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.214380264282227 fps.
+07-13 09:29:43.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.69516372680664 fps.
+07-13 09:29:43.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.935302734375 fps.
+07-13 09:29:43.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.568645477294922 fps.
+07-13 09:29:43.891  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.567018508911133 fps.
+07-13 09:29:43.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 09:29:43.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.438436064353358 fps after 390 frames.
+07-13 09:29:43.959  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.0345401763916 fps.
+07-13 09:29:43.990  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 09:29:44.028  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.903417587280273 fps.
+07-13 09:29:44.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.480302810668945 fps.
+07-13 09:29:44.098  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.288421630859375 fps.
+07-13 09:29:44.128  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.216068267822266 fps.
+07-13 09:29:44.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.8164119720459 fps.
+07-13 09:29:44.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.659595489501953 fps.
+07-13 09:29:44.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.60207748413086 fps.
+07-13 09:29:44.261  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 09:29:44.261  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.525950971841812 fps after 400 frames.
+07-13 09:29:44.298  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.256366729736328 fps.
+07-13 09:29:44.338  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.738964080810547 fps.
+07-13 09:29:44.368  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.16639709472656 fps.
+07-13 09:29:44.398  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.9796142578125 fps.
+07-13 09:29:44.430  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.441205978393555 fps.
+07-13 09:29:44.468  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.596010208129883 fps.
+07-13 09:29:44.499  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.73447036743164 fps.
+07-13 09:29:44.529  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 09:29:44.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.401987075805664 fps.
+07-13 09:29:44.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.558837890625 fps.
+07-13 09:29:44.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.59206931067676 fps after 410 frames.
+07-13 09:29:44.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.500446319580078 fps.
+07-13 09:29:44.668  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 44.22235107421875 fps.
+07-13 09:29:44.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.862016677856445 fps.
+07-13 09:29:44.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.46894073486328 fps.
+07-13 09:29:44.768  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 40.30470275878906 fps.
+07-13 09:29:44.799  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.029882431030273 fps.
+07-13 09:29:44.838  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.820104598999023 fps.
+07-13 09:29:44.868  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.64344596862793 fps.
+07-13 09:29:44.908  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.10251808166504 fps.
+07-13 09:29:44.938  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.179189682006836 fps.
+07-13 09:29:44.938  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.69495718025026 fps after 420 frames.
+07-13 09:29:44.969  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.900146484375 fps.
+07-13 09:29:45.008  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.481300354003906 fps.
+07-13 09:29:45.038  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.369291305541992 fps.
+07-13 09:29:45.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.8160343170166 fps.
+07-13 09:29:45.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.140548706054688 fps.
+07-13 09:29:45.138  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 42.22616195678711 fps.
+07-13 09:29:45.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.45345115661621 fps.
+07-13 09:29:45.208  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.172529220581055 fps.
+07-13 09:29:45.238  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.52919387817383 fps.
+07-13 09:29:45.278  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.43553924560547 fps.
+07-13 09:29:45.278  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.780014447278756 fps after 430 frames.
+07-13 09:29:45.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.78938865661621 fps.
+07-13 09:29:45.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.19942855834961 fps.
+07-13 09:29:45.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.187013626098633 fps.
+07-13 09:29:45.408  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 41.11334991455078 fps.
+07-13 09:29:45.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.683744430541992 fps.
+07-13 09:29:45.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.822444915771484 fps.
+07-13 09:29:45.508  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.37004089355469 fps.
+07-13 09:29:45.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.272546768188477 fps.
+07-13 09:29:45.578  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.946910858154297 fps.
+07-13 09:29:45.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.219608306884766 fps.
+07-13 09:29:45.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.87502429376949 fps after 440 frames.
+07-13 09:29:45.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.224668502807617 fps.
+07-13 09:29:45.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.59857177734375 fps.
+07-13 09:29:45.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.31221580505371 fps.
+07-13 09:29:45.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.68445587158203 fps.
+07-13 09:29:45.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.23830795288086 fps.
+07-13 09:29:45.808  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.6647834777832 fps.
+07-13 09:29:45.848  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.383136749267578 fps.
+07-13 09:29:45.888  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.36227035522461 fps.
+07-13 09:29:45.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.0126953125 fps.
+07-13 09:29:45.948  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.007282257080078 fps.
+07-13 09:29:45.948  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 26.945553505155775 fps after 450 frames.
+07-13 09:29:45.979  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.25182342529297 fps.
+07-13 09:29:46.018  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.683744430541992 fps.
+07-13 09:29:46.058  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.12702178955078 fps.
+07-13 09:29:46.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.490066528320313 fps.
+07-13 09:29:46.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 38.732666015625 fps.
+07-13 09:29:46.149  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.72186279296875 fps.
+07-13 09:29:46.180  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.17833709716797 fps.
+07-13 09:29:46.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.013757705688477 fps.
+07-13 09:29:46.248  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.61260223388672 fps.
+07-13 09:29:46.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 09:29:46.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.021315509340038 fps after 460 frames.
+07-13 09:29:46.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.261327743530273 fps.
+07-13 09:29:46.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.05975914001465 fps.
+07-13 09:29:46.388  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.235700607299805 fps.
+07-13 09:29:46.418  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.693206787109375 fps.
+07-13 09:29:46.458  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.14883041381836 fps.
+07-13 09:29:46.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.64284896850586 fps.
+07-13 09:29:46.518  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.79438018798828 fps.
+07-13 09:29:46.552  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.36836814880371 fps.
+07-13 09:29:46.588  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.329124450683594 fps.
+07-13 09:29:46.628  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.532939910888672 fps.
+07-13 09:29:46.628  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.074194937563956 fps after 470 frames.
+07-13 09:29:46.658  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.12099075317383 fps.
+07-13 09:29:46.688  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.65321922302246 fps.
+07-13 09:29:46.720  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.173194885253906 fps.
+07-13 09:29:46.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.425655364990234 fps.
+07-13 09:29:46.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.951778411865234 fps.
+07-13 09:29:46.828  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.86707305908203 fps.
+07-13 09:29:46.858  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.800865173339844 fps.
+07-13 09:29:46.898  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.89588737487793 fps.
+07-13 09:29:46.928  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.800865173339844 fps.
+07-13 09:29:46.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.99894332885742 fps.
+07-13 09:29:46.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.14908352792263 fps after 480 frames.
+07-13 09:29:46.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.260807037353516 fps.
+07-13 09:29:47.028  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 40.107486724853516 fps.
+07-13 09:29:47.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.545297622680664 fps.
+07-13 09:29:47.098  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.06724166870117 fps.
+07-13 09:29:47.138  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.454063415527344 fps.
+07-13 09:29:47.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.81369972229004 fps.
+07-13 09:29:47.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.89906692504883 fps.
+07-13 09:29:47.228  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.46894073486328 fps.
+07-13 09:29:47.278  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 20.739572525024414 fps.
+07-13 09:29:47.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.032543182373047 fps.
+07-13 09:29:47.318  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.181528189717508 fps after 490 frames.
+07-13 09:29:47.358  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.975648880004883 fps.
+07-13 09:29:47.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.369718551635742 fps.
+07-13 09:29:47.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.26995086669922 fps.
+07-13 09:29:47.518  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.566192626953125 fps.
+07-13 09:29:47.558  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 22.382381439208984 fps.
+07-13 09:29:47.598  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.94437599182129 fps.
+07-13 09:29:47.638  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.9950008392334 fps.
+07-13 09:29:47.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.076080322265625 fps.
+07-13 09:29:47.718  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.710729598999023 fps.
+07-13 09:29:47.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.781169891357422 fps.
+07-13 09:29:47.758  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.114040123939514 fps after 500 frames.
+07-13 09:29:47.798  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.749412536621094 fps.
+07-13 09:29:47.838  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.924888610839844 fps.
+07-13 09:29:47.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.786832809448242 fps.
+07-13 09:29:47.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.147743225097656 fps.
+07-13 09:29:47.958  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.27302360534668 fps.
+07-13 09:29:47.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.82177734375 fps.
+07-13 09:29:48.029  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 09:29:48.068  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.975648880004883 fps.
+07-13 09:29:48.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.6755313873291 fps.
+07-13 09:29:48.128  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.75151824951172 fps.
+07-13 09:29:48.138  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.121243941550162 fps after 510 frames.
+07-13 09:29:48.168  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.788501739501953 fps.
+07-13 09:29:48.198  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.078845977783203 fps.
+07-13 09:29:48.238  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.720827102661133 fps.
+07-13 09:29:48.268  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 37.75151824951172 fps.
+07-13 09:29:48.298  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.84362030029297 fps.
+07-13 09:29:48.338  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.710166931152344 fps.
+07-13 09:29:48.378  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.45345115661621 fps.
+07-13 09:29:48.398  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 39.24338912963867 fps.
+07-13 09:29:48.438  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.419586181640625 fps.
+07-13 09:29:48.468  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.489896774291992 fps.
+07-13 09:29:48.478  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.17756579564168 fps after 520 frames.
+07-13 09:29:48.500  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.81691360473633 fps.
+07-13 09:29:48.538  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 09:29:48.568  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.200531005859375 fps.
+07-13 09:29:48.600  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 09:29:48.638  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.420549392700195 fps.
+07-13 09:29:48.678  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.66240119934082 fps.
+07-13 09:29:48.708  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.712581634521484 fps.
+07-13 09:29:48.738  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.924888610839844 fps.
+07-13 09:29:48.778  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.319944381713867 fps.
+07-13 09:29:48.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.705835342407227 fps.
+07-13 09:29:48.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.222868117746316 fps after 530 frames.
+07-13 09:29:48.838  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 39.912193298339844 fps.
+07-13 09:29:48.878  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.175363540649414 fps.
+07-13 09:29:48.908  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.705835342407227 fps.
+07-13 09:29:48.948  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.941551208496094 fps.
+07-13 09:29:48.978  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.089693069458008 fps.
+07-13 09:29:49.008  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 09:29:49.038  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.267587661743164 fps.
+07-13 09:29:49.078  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.15281867980957 fps.
+07-13 09:29:49.108  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 09:29:49.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 21.5012149810791 fps.
+07-13 09:29:49.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.272773906036658 fps after 540 frames.
+07-13 09:29:49.178  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 45.5746955871582 fps.
+07-13 09:29:49.218  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.640380859375 fps.
+07-13 09:29:49.248  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.863691329956055 fps.
+07-13 09:29:49.278  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.86662673950195 fps.
+07-13 09:29:49.308  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.436988830566406 fps.
+07-13 09:29:49.348  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.257186889648438 fps.
+07-13 09:29:49.378  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.65180778503418 fps.
+07-13 09:29:49.418  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.417638778686523 fps.
+07-13 09:29:49.448  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.85125732421875 fps.
+07-13 09:29:49.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.911130905151367 fps.
+07-13 09:29:49.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.341398753252896 fps after 550 frames.
+07-13 09:29:49.518  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 36.53101348876953 fps.
+07-13 09:29:49.548  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 09:29:49.578  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.826141357421875 fps.
+07-13 09:29:49.618  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.64262580871582 fps.
+07-13 09:29:49.648  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.417888641357422 fps.
+07-13 09:29:49.679  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 09:29:49.718  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.482229232788086 fps.
+07-13 09:29:49.748  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 09:29:49.778  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.006498336791992 fps.
+07-13 09:29:49.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.836992263793945 fps.
+07-13 09:29:49.818  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.390827493156706 fps after 560 frames.
+07-13 09:29:49.848  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 35.0459098815918 fps.
+07-13 09:29:49.888  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 28.719127655029297 fps.
+07-13 09:29:49.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 30.5380802154541 fps.
+07-13 09:29:49.948  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.7932186126709 fps.
+07-13 09:29:49.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 23.011253356933594 fps.
+07-13 09:29:50.018  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 41.583499908447266 fps.
+07-13 09:29:50.058  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 24.656047821044922 fps.
+07-13 09:29:50.088  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 33.50532913208008 fps.
+07-13 09:29:50.118  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 34.27592086791992 fps.
+07-13 09:29:50.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.39801025390625 fps.
+07-13 09:29:50.158  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.44805226995234 fps after 570 frames.
+07-13 09:29:50.188  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.267587661743164 fps.
+07-13 09:29:50.218  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 31.844091415405273 fps.
+07-13 09:29:50.248  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 29.468101501464844 fps.
+07-13 09:29:50.288  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 27.65180778503418 fps.
+07-13 09:29:50.328  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 26.511837005615234 fps.
+07-13 09:29:50.368  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 25.322866439819336 fps.
+07-13 09:29:50.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.62673568725586 fps.
+07-13 09:29:50.468  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 20.608783721923828 fps.
+07-13 09:29:50.498  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 32.0 fps.
+07-13 09:29:50.558  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.492149353027344 fps.
+07-13 09:29:50.558  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.42445474904159 fps after 580 frames.
+07-13 09:29:50.608  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.184131622314453 fps.
+07-13 09:29:50.668  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.81832504272461 fps.
+07-13 09:29:50.728  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.686028480529785 fps.
+07-13 09:29:50.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.804180145263672 fps.
+07-13 09:29:50.848  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.392099380493164 fps.
+07-13 09:29:50.918  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 16.45792579650879 fps.
+07-13 09:29:50.968  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.165023803710938 fps.
+07-13 09:29:51.038  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 15.38414192199707 fps.
+07-13 09:29:51.098  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 17.5229549407959 fps.
+07-13 09:29:51.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 1.1075509786605835 fps.
+07-13 09:29:51.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured Average: 27.21814596026631 fps after 590 frames.
+07-13 09:29:51.998  22893-22893/io.github.melvincabatuan.opencvgrayscale D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 09:29:52.028  22893-22893/io.github.melvincabatuan.opencvgrayscale D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 09:29:52.248  22893-22893/io.github.melvincabatuan.opencvgrayscale D/OpenGLRenderer﹕ Flushing caches (mode 1)
+07-13 09:29:52.338  22893-22893/io.github.melvincabatuan.opencvgrayscale W/IInputConnectionWrapper﹕ showStatusIcon on inactive InputConnection
+07-13 09:29:52.338  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 2.916080951690674 fps.
+07-13 09:29:52.428  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 10.771799087524414 fps.
+07-13 09:29:52.488  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 18.224895477294922 fps.
+07-13 09:29:52.598  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 8.93104362487793 fps.
+07-13 09:29:52.668  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 14.093836784362793 fps.
+07-13 09:29:52.718  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 21.41694450378418 fps.
+07-13 09:29:52.788  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 13.101866722106934 fps.
+07-13 09:29:52.908  22893-22893/io.github.melvincabatuan.opencvgrayscale D/onPreviewFrame:﹕ Measured: 9.074492454528809 fps.
+07-13 09:29:53.188  22893-22893/io.github.melvincabatuan.opencvgrayscale W/SurfaceTexture﹕ freeAllBuffersExceptCurrentLocked called but mQueue is not empty
+07-13 09:29:53.198  22893-22893/io.github.melvincabatuan.opencvgrayscale A/libc﹕ Fatal signal 11 (SIGSEGV) at 0xdeadbaad (code=1)
+07-13 09:29:53.518      129-129/? I/DEBUG﹕ pid: 22893, tid: 22893  >>> io.github.melvincabatuan.opencvgrayscale <<<
+07-13 09:29:53.618      129-129/? I/DEBUG﹕ 7e8c8604  3bab8d3d  /data/data/io.github.melvincabatuan.opencvgrayscale/lib/libImageProcessing.so
+07-13 09:29:55.278      298-298/? I/ActivityManager﹕ Process io.github.melvincabatuan.opencvgrayscale (pid 22893) has died.
+
